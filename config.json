@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-gradebook-cli",
+      "title": "SQL-Powered Student Gradebook CLI",
+      "description": "Build a command-line gradebook using SQLite tables, joins, and aggregate queries.",
+      "path": "assignments/sql-gradebook-cli",
+      "dueDate": "2026-09-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
