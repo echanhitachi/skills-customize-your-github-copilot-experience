@@ -1,6 +1,13 @@
-# SKILLS.md — Completing Mergington Assignments
+---
+name: completed-assignment
+description: Complete a homework assignment from assignments/<id>/ and store the finished, tested solution in Completed Assignment/<Assignment-Name>/. Use this skill whenever the user wants to complete, solve, implement, or finish a homework assignment or exercise.
+---
 
-Use this skill to complete a homework assignment from `assignments/<id>/` and store the finished work in `Completed Assignment/<Assignment-Name>/`. Follow these steps for every new assignment that the user wants to complete. Prompt the user for the assignment if it is not clear. Let the user choose from the list of folders under the `assignments` folder. 
+# Complete a Programming Assignment
+
+Use this skill to complete a homework assignment from `assignments/<id>/` and store the finished work in `Completed Assignment/<Assignment-Name>/`. Follow these steps for every new assignment that the user wants to complete.
+
+If the assignment isn't clear, ask the user and let them choose from the list of folders under `assignments/`.
 
 ## Step 1: Create a Dedicated Branch
 
